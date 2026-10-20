@@ -5,6 +5,8 @@ I completed this course project to explore patterns in a supplied sample of 6,00
 
 ## Dashboard Preview
 ![Collision overview dashboard](collision-overview.png)
+### Temporal Patterns
+![Monthly collision trend and weekday-hour heatmap](temporal-patterns.png)
 
 ## Tools and Skills
 - Power BI Desktop
