@@ -3,6 +3,9 @@
 ## Overview
 I completed this course project to explore patterns in a supplied sample of 6,000 London road collisions from 2025. I used Power BI to analyse collision severity, casualties, time patterns, boroughs and road conditions.
 
+## Dashboard Preview
+![Collision overview dashboard](collision-overview.png)
+
 ## Tools and Skills
 - Power BI Desktop
 - Power Query for data preparation
